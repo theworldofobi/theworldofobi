@@ -16,7 +16,7 @@ I am a fourth-year CS & Linguistics double major from the University of Chicago.
 
 ### Current Projects in Progress
 
-**Anchor:** a simple live-trading platform in C++ 
+**Anchor:** a simple trading platform in C++ 
 
 **QFin++:** a C++ library for Quantitative Finance, adapted from a Python library called [QFin](https://github.com/romanmichaelpaolucci/Q-Fin)
 
