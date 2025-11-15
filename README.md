@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub!
 
-I am a fourth-year CS & Linguistics double major from the University of Chicago. My primary focus is C++ low latency development, specifically in the quantitative financial field. I enjoy playing around in SFML and creating algorithm visualizations. I also post short-form content about general CS concepts and C++ tips on [Instagram](https://www.instagram.com/obiplusplus/)
+I am a fourth-year CS & Linguistics double major from the University of Chicago. My primary focus is C++ low-latency development, specifically in the quantitative financial field. I enjoy playing around in SFML and creating algorithm visualizations. I also post short-form content about general CS concepts and C++ tips on [Instagram](https://www.instagram.com/obiplusplus/)
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,3 +21,5 @@ I am a fourth-year CS & Linguistics double major from the University of Chicago.
 **QFin++:** a C++ library for Quantitative Finance, adapted from a Python library called [QFin](https://github.com/romanmichaelpaolucci/Q-Fin)
 
 **VisuAlgo:** a visualizer for mathematical and financial models and algorithms using C++ and SFML
+
+**Obi++:** a toy programming language project in C++
