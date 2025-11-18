@@ -14,7 +14,7 @@ I am a fourth-year CS & Linguistics double major from the University of Chicago.
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Current Projects in Progress
+### Current Repos in Progress
 
 **Anchor:** a simple trading platform in C++ 
 
@@ -22,4 +22,4 @@ I am a fourth-year CS & Linguistics double major from the University of Chicago.
 
 **VisuAlgo:** a visualizer for mathematical and financial models and algorithms using C++ and SFML
 
-**Obi++:** a toy programming language project in C++
+**OTL:** Obi's Template Library, my implementation of data structures and STL features in C++
