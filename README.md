@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub!
 
-I am a fourth-year CS & Linguistics double major from the University of Chicago. My primary focus is C++ low-latency development, specifically in the quantitative financial field. I enjoy playing around in SFML and creating algorithm visualizations. I also post short-form content about general CS concepts and C++ tips on [Instagram](https://www.instagram.com/obiplusplus/)
+I am a fourth-year CS & Linguistics double major from the University of Chicago. My primary focus is C++ low-latency development, specifically in the quantitative financial field. I enjoy playing around in SFML and creating algorithm visualizations. As of late, I'm officially a contributor to the [Beman Project](https://github.com/bemanproject)! I also post short-form content about general CS concepts and C++ tips on [Instagram](https://www.instagram.com/obiplusplus/)
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,6 +16,8 @@ I am a fourth-year CS & Linguistics double major from the University of Chicago.
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Current Repos in Progress
+
+**Whot!:** Nigeria's national card game
 
 **Anchor:** a simple trading platform in C++ 
 
