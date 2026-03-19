@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub!
 
-I am a fourth-year CS & Linguistics double major from the University of Chicago. My primary focus is C++ low-latency development, specifically in the quantitative financial field. Been tinkering around with Arduino Nano 33 BLE Sense Rev2 and the Arty A7, a few projects incoming on those boards... I enjoy playing around in SFML and creating algorithm visualizations. As of late, I'm officially a contributor to the [Beman Project](https://github.com/bemanproject)! I also post short-form content about general CS concepts and C++ tips on [Instagram](https://www.instagram.com/obiplusplus/)
+I am an early graduate of The University of Chicago with a double major in CS & Linguistics. My primary focus is C++ low-latency development, specifically in the quantitative financial field. Been tinkering around with Arduino Nano 33 BLE Sense Rev2 and the Arty A7, a few projects incoming on those boards... I enjoy playing around with and creating algorithm visualizations. As of late, I'm officially a contributor to the [Beman Project](https://github.com/bemanproject)! I also post short-form content about general CS concepts and C++ tips on [Instagram](https://www.instagram.com/obiplusplus/)
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,12 +17,10 @@ I am a fourth-year CS & Linguistics double major from the University of Chicago.
 
 ### Current Repos in Progress
 
-**Whot!:** Nigeria's national card game
+**QuantViz:** a visualizer for mathematical and financial models and algorithms using C++ and SFML
 
-**Anchor:** a simple trading platform in C++ 
+**CLRS++:** an implementation in C++ of most algorithms found in *Introduction to Algorithms* by Cormen, Leiserson, Rivest, and Stein
 
-**QFin++:** a C++ library for Quantitative Finance, adapted from a Python library called [QFin](https://github.com/romanmichaelpaolucci/Q-Fin)
+**OTL:** Obi's Template Library, my HFT-friendly implementation of data structures and STL features in C++
 
-**VisuAlgo:** a visualizer for mathematical and financial models and algorithms using C++ and SFML
-
-**OTL:** Obi's Template Library, my implementation of data structures and STL features in C++
+**Whot!:** Nigeria's national card game, how I connect with my little siblings while I'm away
