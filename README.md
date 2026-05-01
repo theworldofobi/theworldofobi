@@ -14,13 +14,3 @@ I am an early graduate of The University of Chicago with a double major in CS & 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Current Repos in Progress
-
-**QuantViz:** a visualizer for mathematical and financial models and algorithms using C++ and SFML
-
-**CLRS++:** an implementation in C++ of most algorithms found in *Introduction to Algorithms* by Cormen, Leiserson, Rivest, and Stein
-
-**OTL:** Obi's Template Library, my HFT-friendly implementation of data structures and STL features in C++
-
-**Whot!:** Nigeria's national card game, how I connect with my little siblings while I'm away
