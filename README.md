@@ -6,7 +6,7 @@ I am an early graduate of The University of Chicago with a double major in CS & 
 
 ### Open Source Contributions
 
- * Beman Project: beman-tidy (Python)
+ * Beman Project: beman-tidy (Python, CMake, pytest)
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
