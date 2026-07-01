@@ -4,6 +4,10 @@
 
 I am an early graduate of The University of Chicago with a double major in CS & Linguistics. My primary focus is C++ low-latency development, specifically in the quantitative financial field. Been tinkering around with Arduino Nano 33 BLE Sense Rev2 and the Arty A7, a few projects incoming on those boards... I enjoy playing around with and creating algorithm visualizations. As of late, I'm officially a contributor to the [Beman Project](https://github.com/bemanproject)! I also post short-form content about general CS concepts and C++ tips on [Instagram](https://www.instagram.com/obiplusplus/)
 
+### Open Source Contributions
+
+ * Beman Project: beman-tidy (Python)
+
 ### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
