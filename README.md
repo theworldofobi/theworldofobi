@@ -18,4 +18,5 @@ I also post short-form content about VLSI concepts on [Instagram](https://www.in
 
 ### Open Source Contributions
 
+ * CuPy: cupy (Python)
  * Beman Project: beman-tidy (Python, CMake, pytest) - in progress
