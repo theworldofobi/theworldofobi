@@ -3,7 +3,7 @@
 ### Welcome to my GitHub!
 
 I am a master's student in Electrical and Computer Engineering at the University of Colorado Boulder (Class of 2028), and I received my bachelor's from the University of Chicago. My main interests are in **formal verification, computer architecture, digital design, and hardware correctness!** Currently on the lookout for open-source projects and internships in FPGA/ASIC design verification.
-I also post short-form content about VLSI concepts on [Instagram](https://www.instagram.com/obiplusplus/) and on [Twitter/X](https://x.com/obiplusplus).
+I also post short-form content about hardware/firmware concepts on [Instagram](https://www.instagram.com/obiplusplus/) and on [Twitter/X](https://x.com/obiplusplus).
 
 ### Skillset
 
